@@ -1,0 +1,41 @@
+.titleLogin {
+    display: flex;
+    font-weight: bold !important;
+    width: 100%;
+  }
+  
+  .subtitleLogin {
+    display: flex;
+    width: 100%;
+  }
+  
+  .inputUserLogin {
+    width: 100%;
+  }
+  
+  .checkUserLogin {
+    display: flex;
+    margin-top: 0.8rem;
+    width: 100%;
+  }
+  
+  .buttonLogin {
+    border-radius: 8px !important;
+    text-transform: none !important;
+    width: 100%;
+  }
+  
+  .boxText {
+    background-color: #f4f4f4;
+    border-radius: 5px !important;
+    padding: 1.5rem 2rem;
+  }
+  
+  .textLink {
+    margin-left: 10px !important;
+    color: #169ace;
+    font-weight: 600 !important;
+    text-decoration: underline;
+    text-decoration-color: #169ace;
+  }
+  
